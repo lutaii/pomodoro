@@ -1,0 +1,1 @@
+const settingsTableName = 'settingsTableName';
